@@ -1,11 +1,19 @@
 
 
+import Pritam from "./pritam"
+
+
 function App() {
 
+return (
 
-  return (
-    <h1> chai aur pritam & React with vite | Pritam Dutta | in 2nd video of react js  we  know how react file exicute ..i use vite & react  for  creating this project.   </h1>
+    <>
+    <Pritam/>
+    <h1>Pritam aur react</h1>
+    <p>this is a test para </p>
+    </>
   )
+
 }
 
 export default App
