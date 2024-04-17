@@ -1,4 +1,3 @@
-import { Component } from 'react'
-import InputBox from './'Component
+import {InputBox} from './InputBox'
 
 export {InputBox}
